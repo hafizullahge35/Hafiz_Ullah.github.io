@@ -2,8 +2,6 @@
 
 A responsive personal portfolio showcasing my academic journey, projects, and experience as an Electronics & Telecommunication Engineering student at CUET.
 
-🔗 **Live Demo**: [nabilaeusha.github.io](https://nabilaeusha.github.io)
-
 ## Features
 
 - Dark/Light theme toggle with persistent storage
