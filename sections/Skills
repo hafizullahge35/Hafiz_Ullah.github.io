@@ -1,0 +1,34 @@
+<section id="skills" class="section">
+  <div class="container">
+    <h2>Skills</h2>
+
+    <h3>Technical</h3>
+    <ul class="cols">
+      <li>Geological maps, engineering drawings, well logs</li>
+      <li>Contract interpretation</li>
+      <li>Field surveying & mapping</li>
+    </ul>
+
+    <h3>Software & Programming</h3>
+    <ul class="cols">
+      <li>ArcGIS, ArcGIS Pro, QGIS</li><li>ENVI, Pix4D</li><li>DIPS</li>
+      <li>Google Earth Engine</li><li>Python</li>
+      <li>CorelDRAW, Origin, Visio</li>
+    </ul>
+
+    <h3>Field</h3>
+    <ul class="cols">
+      <li>Stratigraphy & geological mapping</li>
+      <li>Hydropower infrastructure assessment (Tarbela, Ghazi-Barotha, Salt Range)</li>
+      <li>Slope stability & ecological restoration (Shaanxi, China)</li>
+      <li>Comprehensive geohazard surveys (Northern Pakistan)</li>
+    </ul>
+
+    <h3>Languages</h3>
+    <ul class="cols">
+      <li>English — IELTS 7.0 (Speaking 6.5 | Listening 7.5 | Reading 7.5 | Writing 6.0; Test date: 05 Jan 2025)</li>
+      <li>Chinese — Basic proficiency (UET Lahore course)</li>
+      <li>Pashto — Native; Urdu — Fluent</li>
+    </ul>
+  </div>
+</section>
