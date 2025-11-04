@@ -1,0 +1,30 @@
+<section id="research" class="section">
+  <div class="container">
+    <h2>Research</h2>
+
+    <h3>Research Interests</h3>
+    <ul class="tags">
+      <li>Geo-hazards Risk Assessment</li><li>Landslide Susceptibility Mapping</li>
+      <li>Ground Deformation (PS-InSAR)</li><li>GIS & Remote Sensing</li>
+      <li>Environmental Impact Assessment</li><li>Geo-AI & Simulation</li>
+    </ul>
+
+    <h3>Theses</h3>
+    <ul>
+      <li><strong>PhD (ongoing)</strong> — Civil Engineering, Shanghai Jiao Tong University, China.</li>
+      <li><strong>Master’s Thesis</strong> — <em>Machine Learning and Deep Learning for Enhanced Landslide Susceptibility and
+        Propagation Dynamics with Cross-validation through PS-InSAR in Northwestern Pakistan</em>.</li>
+      <li><strong>Bachelor’s Thesis</strong> — <em>Evaluation of Slope Instability and Rockfall Hazard along M2 Motorway in the Salt Range, Pakistan</em>.</li>
+    </ul>
+
+    <h3>Articles & Manuscripts</h3>
+    <ol>
+      <li><strong>Machine Learning and Deep Learning for Enhanced Landslide Susceptibility and Propagation Dynamics in Northwestern Pakistan</strong> — under review, first author (Bulletin of Engineering Geology and the Environment).</li>
+      <li><strong>Landslide susceptibility mapping using hybrid machine learning classifiers: a case study of Neelum Valley, Pakistan</strong> — co-author (Bulletin of Engineering Geology and the Environment).</li>
+      <li><strong>Development of an Automatic Approach for Rock Mass Structure Interpretation, Highlighting Trace Discontinuities from Colored 3D Point Clouds</strong> — under review, co-author (Rock Mechanics and Rock Engineering).</li>
+      <li><strong>Spatial Analysis of Flood Susceptibility in the Coastal Area of Pakistan Using Machine Learning Models and SAR Imagery</strong> — co-author (Environmental Earth Sciences).</li>
+      <li><strong>The Role of Multi-Resolution DEM and Uncertainty of Sampling Strategies in Boosting the Accuracy of Deep Learning-Based Debris Flow Susceptibility Mapping</strong> — under review, co-author (Acta Geotechnica).</li>
+      <li><strong>An Insight into Integrated Farming System Impacts on Soil Physiography and Weed Control in South Waziristan</strong> — published, co-author (Pak-Euro Journal of Medical and Life Sciences).</li>
+    </ol>
+  </div>
+</section>
